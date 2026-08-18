@@ -1,5 +1,4 @@
 # Challenge Amigo Secreto
-Primer desafío de Alura LATAM "Amigo Secreto"
 
 <p align="left">
 <img src="https://img.shields.io/badge/estado-finalizado-00A000"></p>
