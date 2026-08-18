@@ -18,12 +18,12 @@ _Proyecto inicial de JavaScript que permite:_
 
 Puedes probar el proyecto en línea gracias a GitHub Pages:
 
-🔗 **[Ver demo aquí](https://kymdu.github.io/challenge-amigo-secreto/)** 
+🔗 **[Ver demo aquí](https://robertoriquelmes.github.io/challenge-amigo-secreto/)** 
 
 ### 💻 O ejecutarlo localmente:
 1. Clona este repositorio o descarga el código:
    ```bash
-   git clone https://github.com/Kymdu/challenge-amigo-secreto
+   git clone https://github.com/robertoriquelmes/challenge-amigo-secreto.git
 2. Abre el archivo index.html en tu navegador.
     No se requieren instalaciones ni dependencias adicionales.
 
@@ -45,7 +45,7 @@ Puedes probar el proyecto en línea gracias a GitHub Pages:
 ```
 ## 👤 Autor
 
-Desarrollado por [Roberto Riquelme](https://github.com/Kymdu).
+Desarrollado por [Roberto Riquelme](https://github.com/robertoriquelmes).
 
 📬 ¡Conectemos! Puedes seguirme en GitHub y darme feedback o sugerencias.  
 🚀 Soy un desarrollador en formación, aprendiendo JavaScript y desarrollo web.  
